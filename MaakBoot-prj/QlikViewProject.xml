@@ -1,4 +1,4 @@
-﻿<!-- Last project change: 2017-11-16 16:27:58 (2017-11-16 15:27:58) -->
+﻿<!-- Last project change: 2017-11-16 16:29:36 (2017-11-16 15:29:36) -->
 <PrjQlikViewProject>
   <GLOBAL>
     <AllPropertiesFileName>AllProperties.xml</AllPropertiesFileName>
@@ -19,6 +19,23 @@
           <Rect>
             <Left>1781</Left>
             <Top>772</Top>
+            <Width>450</Width>
+            <Height>450</Height>
+          </Rect>
+          <MinimizedRect>
+            <Left>0</Left>
+            <Top>0</Top>
+            <Width>297</Width>
+            <Height>102</Height>
+          </MinimizedRect>
+          <ShowMode>1</ShowMode>
+          <ZedLevel>-1</ZedLevel>
+        </PrjFrameParentDef>
+        <PrjFrameParentDef>
+          <ObjectId>Document\TX02_398046518</ObjectId>
+          <Rect>
+            <Left>2675</Left>
+            <Top>900</Top>
             <Width>450</Width>
             <Height>450</Height>
           </Rect>
